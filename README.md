@@ -122,19 +122,6 @@ Learning Python through practical projects and animations.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashkushwaha921&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkushwaha921&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
----
-
----
 
 ## 📈 My GitHub Activity
 
