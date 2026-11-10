@@ -115,3 +115,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 My GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/akashkushwaha921/akashkushwaha921/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/akashkushwaha921/akashkushwaha921/output/github-contribution-grid-snake-dark.svg)
