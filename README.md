@@ -49,7 +49,6 @@
 
 ---
 
-## 🚀 About Me
 
 ## 🚀 About Me
 
