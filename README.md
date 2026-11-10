@@ -36,6 +36,21 @@
 
 ---
 
+<div align="center">
+
+[About Me](#-about-me) •
+[Tech Stack](#️-tech-stack--tools) •
+[Projects](#-featured-projects) •
+[GitHub Stats](#-github-statistics) •
+[Learning](#-my-learning-journey) •
+[Contact](#-lets-connect--collaborate)
+
+</div>
+
+---
+
+## 🚀 About Me
+
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering Student
