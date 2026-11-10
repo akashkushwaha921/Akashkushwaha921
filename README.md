@@ -12,6 +12,15 @@
 </div>
 
 
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/akashkushwaha921?style=for-the-badge&logo=github&color=00D9FF&label=Followers)
+
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakashkushwaha921&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=7B68EE&logo=github)
+
+</div>
+
+
 
 ### 💻 Aspiring Data Analyst | Python Developer
 
