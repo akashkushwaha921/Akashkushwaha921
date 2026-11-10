@@ -120,3 +120,9 @@ Here are some ideas to get you started:
 ![GitHub Snake](https://raw.githubusercontent.com/akashkushwaha921/akashkushwaha921/output/github-contribution-grid-snake.svg)
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/akashkushwaha921/akashkushwaha921/output/github-contribution-grid-snake-dark.svg)
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashkushwaha921&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkushwaha921&layout=compact&theme=tokyonight)
