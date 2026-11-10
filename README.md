@@ -1,160 +1,116 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Akash Kushwaha
+# Hi, I'm Akash Kushwaha 👋
 
+### Python Developer | Problem Solver | Lifelong Learner
 
+I enjoy building practical software, exploring backend development, and using technology to solve real-world problems.
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=akashkushwaha921&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge)
-
-</div>
-
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/akashkushwaha921?style=for-the-badge&logo=github&color=00D9FF&label=Followers)
-
-![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakashkushwaha921&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=7B68EE&logo=github)
-
-</div>
-
-
-
-### 💻 Aspiring Data Analyst | Python Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Learning+Data+Analytics+%26+Python;Exploring+SQL%2C+Pandas+%26+AI" alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Analytics-Learning-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSE-Student-7B68EE?style=for-the-badge"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashkushwaha921)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kushwaha-b81b08302)
+![Profile Views](https://komarev.com/ghpvc/?username=akashkushwaha921&style=for-the-badge&color=2563eb)
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+- 🐍 Python Developer focused on writing clear, useful code.
+- 🎓 Computer Science Engineering student.
+- 🧩 Interested in problem-solving, backend development, and data-driven applications.
+- 📚 Currently strengthening my Python, SQL, and data analysis skills.
+- 🚀 I enjoy learning by building projects and experimenting with new technologies.
+- 🤝 Open to learning opportunities, collaboration, and meaningful projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Data & Databases
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+*Some technologies above are part of my ongoing learning and practice.*
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 [KrishiSathi — AI-Powered Agricultural Advisory Platform](https://github.com/akashkushwaha921/Nasa_krishi_sathi)
+
+An agricultural advisory platform concept that combines NASA Earth-observation data, weather information, and AI-powered insights to support data-informed farming decisions.
+
+**Project technologies:** Next.js · TypeScript · Supabase · NASA APIs · Weather APIs
+
+**Highlights:**
+- Satellite and vegetation data exploration
+- Weather information and crop recommendations
+- Growth monitoring and dashboard concepts
+- Supabase-backed authentication and data services
+
+### ☁️ [Google Cloud Projects](https://github.com/akashkushwaha921/gcloud_projects)
+
+A technical exploration of Flutter and Google Cloud SDK workflows, including Cloud Shell command execution, authentication, and port forwarding.
+
+**Technologies:** Dart · Flutter · Google Cloud SDK
+
+### 🎮 [Tic-Tac-Toe Game](https://github.com/akashkushwaha921/tic---toe-game)
+
+A small game project in my collection of hands-on programming experiments.
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-[About Me](#-about-me) •
-[Tech Stack](#️-tech-stack--tools) •
-[Projects](#-featured-projects) •
-[GitHub Stats](#-github-statistics) •
-[Learning](#-my-learning-journey) •
-[Contact](#-lets-connect--collaborate)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashkushwaha921&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Akash's GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkushwaha921&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+[![Akash's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkushwaha921&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/akashkushwaha921)
 
 </div>
 
 ---
 
+## 🌱 Currently Learning
 
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering Student
-- 📊 Currently learning Data Analytics
-- 🐍 Exploring Python and SQL
-- 📈 Learning Pandas, NumPy and Matplotlib
-- 🗄️ Practicing PostgreSQL and Database Management
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🎯 Goal: Become a skilled Data Analyst and Python Developer
+- Writing cleaner and more maintainable Python.
+- Working with SQL and relational databases.
+- Exploring data analysis with Pandas and NumPy.
+- Strengthening backend development fundamentals.
+- Building practical projects and improving problem-solving skills.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🤝 Let's Connect
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c"/>
-</p>
-
-
-
----
-
-## 📚 My Learning Journey
-
-| Area | Learning Focus | Status |
-|---|---|---|
-| 🐍 Python | Core Python, Functions | Learning |
-| 🗄️ SQL | PostgreSQL, Queries, Joins | Learning |
-| 📊 Data Analysis | Pandas, NumPy | Learning |
-| 📈 Visualization | Matplotlib, Excel, Power BI | Exploring |
-| 🤖 AI & ML | Machine Learning Basics | Exploring |
-
-### 🎯 My Current Goals
-
-- Build practical Data Analytics projects.
-- Improve Python and SQL skills.
-- Work with real-world datasets.
-- Develop strong problem-solving skills.
-- Share my learning through GitHub.
-
-
-
-### Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### Database & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,django,html,css,git,github,vscode"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🌾 NASA Farm Navigators
-Agriculture-focused project using NASA satellite data to explore crop and environmental information.
-
-### 🎓 CampusFind
-A Django-based Lost & Found Portal concept for campus communities.
-
-### 🎮 Python Projects
-Learning Python through practical projects and animations.
-
----
-
-
-## 📈 My GitHub Activity
+I'm always interested in connecting with developers, learning from others, and collaborating on useful projects.
 
 <div align="center">
 
-[![Akash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkushwaha921&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Akash's%20Contribution%20Activity)](https://github.com/akashkushwaha921)
-
-</div>
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![GitHub Snake](https://raw.githubusercontent.com/akashkushwaha921/akashkushwaha921/output/github-contribution-grid-snake.svg)
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/akashkushwaha921/akashkushwaha921/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/akash-kushwaha-b81b08302">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/akashkushwaha921">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/akashkushwaha921)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-kushwaha-b81b08302)
 
 </div>
 
@@ -162,12 +118,8 @@ Learning Python through practical projects and animations.
 
 <div align="center">
 
-### 💙 Thanks for Visiting My Profile!
+### 💡 Learn. Build. Improve. Repeat.
 
-*Learning every day. Building step by step. Growing continuously.*
+*Thanks for visiting my profile!*
 
 </div>
-
-
----
-
