@@ -1,4 +1,4 @@
-
+![Akash Kushwaha - Data Analyst](github-banner.png)
 👋 Hi, I'm Akash Kushwaha
 
 
