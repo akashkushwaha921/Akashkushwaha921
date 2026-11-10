@@ -3,6 +3,14 @@
 
 # 👋 Hi, I'm Akash Kushwaha
 
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashkushwaha921&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge)
+
+</div>
+
+
 ### 💻 Aspiring Data Analyst | Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Learning+Data+Analytics+%26+Python;Exploring+SQL%2C+Pandas+%26+AI" alt="Typing SVG" />
