@@ -123,9 +123,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashkushwaha921&show_icons=true&theme=tokyonight)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkushwaha921&layout=compact&theme=tokyonight
-## 🔥 GitHub Contribution Streak
-
+![Top Languages](./profile/top-langs.svg)
 ![GitHub Streak](https://streak-stats.demolab.com?user=akashkushwaha921&theme=tokyonight)
