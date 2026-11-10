@@ -55,6 +55,30 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,c"/>
 </p>
 
+
+
+---
+
+## 📚 My Learning Journey
+
+| Area | Learning Focus | Status |
+|---|---|---|
+| 🐍 Python | Core Python, Functions | Learning |
+| 🗄️ SQL | PostgreSQL, Queries, Joins | Learning |
+| 📊 Data Analysis | Pandas, NumPy | Learning |
+| 📈 Visualization | Matplotlib, Excel, Power BI | Exploring |
+| 🤖 AI & ML | Machine Learning Basics | Exploring |
+
+### 🎯 My Current Goals
+
+- Build practical Data Analytics projects.
+- Improve Python and SQL skills.
+- Work with real-world datasets.
+- Develop strong problem-solving skills.
+- Share my learning through GitHub.
+
+
+
 ### Data Analytics
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
