@@ -77,6 +77,17 @@ Learning Python through practical projects and animations.
 
 ---
 
+---
+
+## 📈 My GitHub Activity
+
+<div align="center">
+
+[![Akash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkushwaha921&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Akash's%20Contribution%20Activity)](https://github.com/akashkushwaha921)
+
+</div>
+
+
 ## 🐍 Contribution Snake
 
 <div align="center">
